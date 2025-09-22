@@ -62,7 +62,7 @@ L'hypothèse prise sur les heures de disponibilités : 08h00 - 20h00 en semaine.
 
 Cela se traduit par le calcul des heures sur 1 an : 
 - `Nombre d'heures en période active = 12 heures * 5 jours * 52 semaines = 3120 heures`
-- `Nombre d'heures en période inactive = Nobmre d'heures dans une année - Nombre d'heures en période active = 8760 - 3120 = 5640 heures`
+- `Nombre d'heures en période inactive = Nombre d'heures dans une année - Nombre d'heures en période active = 8760 - 3120 = 5640 heures`
 
 ## 2. Formule
 
@@ -96,4 +96,4 @@ Calcul (en kgCO2eq) :
 
 ## Contributeurs
 - Richard PLANCHON
-- Julien PREISNER (@jpreisner)
+- Julien PREISNER ([@jpreisner](https://github.com/jpreisner))
