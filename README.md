@@ -95,5 +95,5 @@ Calcul (en kgCO2eq) :
 `GES (d'un pod par an) = [E(cpu d'un pod par an) + E(ram d'un pod par an)] * G`
 
 ## Contributeurs
-- Richard PLANCHON
-- Julien PREISNER ([@jpreisner](https://github.com/jpreisner))
+- [@Piloxal-po](https://github.com/Piloxal-po)
+- [@jpreisner](https://github.com/jpreisner)
